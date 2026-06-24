@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,45:1D2B53,100:FFCB05&text=Neto-Marcos%20here!&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&desc=Developer%20%7C%20Pokemon%20Trainer%20%7C%20Always%20evolving&descAlign=50&descAlignY=58" alt="Profile banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1D2B53,50:3B4CCA,100:7C3AED&text=Neto-Marcos%20here!&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&desc=Developer%20%7C%20Pokemon%20Trainer%20%7C%20Always%20evolving&descAlign=50&descAlignY=58" alt="Profile banner" />
 </p>
 
 <h1 align="center">Hi, I'm Marcos Neto</h1>
@@ -12,8 +12,8 @@
   <a href="https://github.com/Neto-Marcos">
     <img src="https://komarev.com/ghpvc/?username=Neto-Marcos&style=for-the-badge&color=1D2B53&label=PROFILE+VIEWS" alt="Profile views" />
   </a>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20learn-FFCB05?style=for-the-badge&labelColor=0D1117&color=FFCB05" alt="Status badge" />
-  <img src="https://img.shields.io/badge/Class-Developer%20Trainer-3B4CCA?style=for-the-badge&labelColor=0D1117" alt="Developer trainer badge" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20learn-7C3AED?style=for-the-badge&labelColor=1D2B53&color=7C3AED" alt="Status badge" />
+  <img src="https://img.shields.io/badge/Class-Developer%20Trainer-2563EB?style=for-the-badge&labelColor=1D2B53" alt="Developer trainer badge" />
 </p>
 
 ---
@@ -50,7 +50,7 @@ favorite_vibe: "Dark UI, useful tools, Pokemon energy"
       </ul>
     </td>
     <td width="45%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Neto-Marcos&show_icons=true&theme=github_dark&hide_border=true&title_color=FFCB05&icon_color=FFCB05&text_color=C9D1D9&bg_color=0D1117" alt="GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Neto-Marcos&show_icons=true&theme=github_dark&hide_border=true&title_color=7C3AED&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="GitHub stats" />
     </td>
   </tr>
 </table>
@@ -60,14 +60,10 @@ favorite_vibe: "Dark UI, useful tools, Pokemon energy"
 ## Tech Party
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java&theme=dark" alt="Used language icons" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0D1117" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-2563EB?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-3B4CCA?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-7C3AED?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-58A6FF?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </p>
 
 ---
@@ -75,12 +71,12 @@ favorite_vibe: "Dark UI, useful tools, Pokemon energy"
 ## GitHub Arena
 
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Neto-Marcos&theme=github-dark-blue&hide_border=true&ring=FFCB05&fire=FFCB05&currStreakLabel=FFCB05" alt="GitHub streak" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neto-Marcos&layout=compact&theme=github_dark&hide_border=true&title_color=FFCB05&text_color=C9D1D9&bg_color=0D1117" alt="Top languages" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Neto-Marcos&theme=github-dark-blue&hide_border=true&ring=7C3AED&fire=58A6FF&currStreakLabel=7C3AED" alt="GitHub streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neto-Marcos&layout=compact&theme=github_dark&hide_border=true&title_color=7C3AED&text_color=C9D1D9&bg_color=0D1117" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Neto-Marcos&theme=github-compact&hide_border=true&area=true&color=FFCB05&line=58A6FF&point=FFCB05" alt="GitHub activity graph" />
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Neto-Marcos&theme=github-compact&hide_border=true&area=true&color=7C3AED&line=58A6FF&point=7C3AED" alt="GitHub activity graph" />
 </p>
 
 ---
@@ -95,6 +91,6 @@ favorite_vibe: "Dark UI, useful tools, Pokemon energy"
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FFCB05,50:3B4CCA,100:0D1117" alt="Footer wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7C3AED,50:3B4CCA,100:1D2B53" alt="Footer wave" />
 </p>
 
