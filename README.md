@@ -1,63 +1,63 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1D2B53,50:3B4CCA,100:7C3AED&text=Neto-Marcos%20here!&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&desc=Developer%20%7C%20Pokemon%20Trainer%20%7C%20Always%20evolving&descAlign=50&descAlignY=58" alt="Profile banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1D2B53,50:3B4CCA,100:7C3AED&text=Neto-Marcos%20aqui!&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&desc=Desenvolvedor%20%7C%20Treinador%20Pokemon%20%7C%20Sempre%20evoluindo&descAlign=50&descAlignY=58" alt="Banner do perfil" />
 </p>
 
-<h1 align="center">Hi, I'm Marcos Neto</h1>
+<h1 align="center">Ola, eu sou Marcos Neto</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=Building+clean+and+useful+software;Training+my+skills+like+a+Pokemon+team;Learning%2C+shipping%2C+evolving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=Criando+software+limpo+e+util;Treinando+minhas+habilidades+como+um+time+Pokemon;Aprendendo%2C+construindo%2C+evoluindo" alt="Texto animado" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Neto-Marcos">
-    <img src="https://komarev.com/ghpvc/?username=Neto-Marcos&style=for-the-badge&color=1D2B53&label=PROFILE+VIEWS" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Neto-Marcos&style=for-the-badge&color=1D2B53&label=VISITAS+NO+PERFIL" alt="Visitas no perfil" />
   </a>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20learn-7C3AED?style=for-the-badge&labelColor=1D2B53&color=7C3AED" alt="Status badge" />
-  <img src="https://img.shields.io/badge/Class-Developer%20Trainer-2563EB?style=for-the-badge&labelColor=1D2B53" alt="Developer trainer badge" />
+  <img src="https://img.shields.io/badge/Status-Aprendendo%20sempre-7C3AED?style=for-the-badge&labelColor=1D2B53&color=7C3AED" alt="Status" />
+  <img src="https://img.shields.io/badge/Classe-Dev%20Trainer-2563EB?style=for-the-badge&labelColor=1D2B53" alt="Classe Dev Trainer" />
 </p>
 
 ---
 
-## About Me
+## Sobre Mim
 
 ```yaml
-name: Marcos Neto
-username: Neto-Marcos
-role: Developer in progress
-mindset: "Strong fundamentals, clean code, steady evolution"
-trainer_goal: "Level up one project, one commit, one battle at a time"
-favorite_vibe: "Dark UI, useful tools, Pokemon energy"
+nome: Marcos Neto
+usuario: Neto-Marcos
+funcao: Desenvolvedor em evolucao
+mentalidade: "Bons fundamentos, codigo limpo e evolucao constante"
+objetivo_trainer: "Subir de nivel com um projeto, um commit e uma batalha por vez"
+estilo_favorito: "Dark UI, ferramentas uteis e energia Pokemon"
 ```
 
-- Currently improving my software development skills and building my portfolio.
-- I enjoy turning ideas into practical projects with simple, organized interfaces.
-- I like learning by doing: small iterations, real code, visible progress.
-- Pokemon reference of the day: every bug is just a wild encounter before the next badge.
+- Atualmente estou aprimorando minhas habilidades em desenvolvimento de software e construindo meu portfolio.
+- Gosto de transformar ideias em projetos praticos, com interfaces simples e organizadas.
+- Aprendo melhor colocando a mao no codigo: pequenas iteracoes, codigo real e progresso visivel.
+- Referencia Pokemon do dia: cada bug e so um encontro selvagem antes da proxima insignia.
 
 ---
 
-## Trainer Card
+## Cartao de Treinador
 
 <table>
   <tr>
     <td width="55%">
-      <h3>Dev Journey</h3>
+      <h3>Jornada Dev</h3>
       <ul>
-        <li><b>Starter:</b> curiosity</li>
-        <li><b>Main move:</b> problem solving</li>
-        <li><b>Held item:</b> persistence</li>
-        <li><b>Current quest:</b> stronger projects and cleaner commits</li>
+        <li><b>Inicial:</b> curiosidade</li>
+        <li><b>Golpe principal:</b> resolver problemas</li>
+        <li><b>Item equipado:</b> persistencia</li>
+        <li><b>Missao atual:</b> projetos mais fortes e commits mais limpos</li>
       </ul>
     </td>
     <td width="45%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Neto-Marcos&show_icons=true&theme=github_dark&hide_border=true&title_color=7C3AED&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Neto-Marcos&show_icons=true&theme=github_dark&hide_border=true&title_color=7C3AED&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="Estatisticas do GitHub" />
     </td>
   </tr>
 </table>
 
 ---
 
-## Tech Party
+## Linguagens
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-2563EB?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -68,29 +68,29 @@ favorite_vibe: "Dark UI, useful tools, Pokemon energy"
 
 ---
 
-## GitHub Arena
+## Arena GitHub
 
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Neto-Marcos&theme=github-dark-blue&hide_border=true&ring=7C3AED&fire=58A6FF&currStreakLabel=7C3AED" alt="GitHub streak" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neto-Marcos&layout=compact&theme=github_dark&hide_border=true&title_color=7C3AED&text_color=C9D1D9&bg_color=0D1117" alt="Top languages" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Neto-Marcos&theme=github-dark-blue&hide_border=true&ring=7C3AED&fire=58A6FF&currStreakLabel=7C3AED" alt="Sequencia no GitHub" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neto-Marcos&layout=compact&theme=github_dark&hide_border=true&title_color=7C3AED&text_color=C9D1D9&bg_color=0D1117" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Neto-Marcos&theme=github-compact&hide_border=true&area=true&color=7C3AED&line=58A6FF&point=7C3AED" alt="GitHub activity graph" />
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Neto-Marcos&theme=github-compact&hide_border=true&area=true&color=7C3AED&line=58A6FF&point=7C3AED" alt="Grafico de atividade no GitHub" />
 </p>
 
 ---
 
-## Current Quest Log
+## Missoes Atuais
 
-- Build projects that solve real problems.
-- Improve code organization, testing, and documentation.
-- Keep the profile alive with pinned repositories and clear READMEs.
-- Evolve consistently, like a well-trained team before the league.
+- Criar projetos que resolvam problemas reais.
+- Melhorar organizacao de codigo, testes e documentacao.
+- Manter o perfil vivo com repositorios fixados e READMEs claros.
+- Evoluir com constancia, como um time bem treinado antes da liga.
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7C3AED,50:3B4CCA,100:1D2B53" alt="Footer wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7C3AED,50:3B4CCA,100:1D2B53" alt="Onda de rodape" />
 </p>
 
