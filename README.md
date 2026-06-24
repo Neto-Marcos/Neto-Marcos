@@ -76,31 +76,6 @@ favorite_vibe: "Dark UI, useful tools, Pokemon energy"
 
 ---
 
-## Pokemon Team Energy
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <b>Pikachu</b><br />
-      Fast iterations
-    </td>
-    <td align="center" width="25%">
-      <b>Lucario</b><br />
-      Focus and discipline
-    </td>
-    <td align="center" width="25%">
-      <b>Gengar</b><br />
-      Debugging in the dark
-    </td>
-    <td align="center" width="25%">
-      <b>Charizard</b><br />
-      Shipping with fire
-    </td>
-  </tr>
-</table>
-
----
-
 ## GitHub Arena
 
 <p align="center">
