@@ -1,11 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1D2B53,50:3B4CCA,100:7C3AED&text=Neto-Marcos%20aqui!&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&desc=Desenvolvedor%20%7C%20Treinador%20Pokemon%20%7C%20Sempre%20evoluindo&descAlign=50&descAlignY=58" alt="Banner do perfil" />
-</p>
-
-<h1 align="center">Ola, eu sou Marcos Neto</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=Criando+software+limpo+e+util;Treinando+minhas+habilidades+como+um+time+Pokemon;Aprendendo%2C+construindo%2C+evoluindo" alt="Texto animado" />
+  <img width="100%" src="./assets/solo-leveling-dashboard.svg" alt="Dashboard de perfil Neto-Marcos" />
 </p>
 
 <p align="center">
