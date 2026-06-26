@@ -1,0 +1,67 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Banner do perfil de Marcos Neto</title>
+  <desc id="desc">Banner escuro com cidade neon, terminal e foco no projeto MN-Check.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#070B18"/>
+      <stop offset="0.46" stop-color="#111B3D"/>
+      <stop offset="1" stop-color="#1A0B2E"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="130" y1="0" x2="1070" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#58A6FF"/>
+      <stop offset="0.52" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#D946EF"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-40%" width="160%" height="190%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0.4 0 0 0 0.2 0 0.2 0 0 0.35 0 0 0.8 0 1 0 0 0 0.75 0"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .title{font:800 48px 'Segoe UI',Arial,sans-serif;fill:#F8FAFC}
+      .subtitle{font:700 22px 'Segoe UI',Arial,sans-serif;fill:#D8E2FF}
+      .mono{font:600 16px 'Cascadia Code','Fira Code',Consolas,monospace;fill:#AFC4FF}
+      .muted{font:500 14px 'Segoe UI',Arial,sans-serif;fill:#8998C5}
+      .chip{font:800 13px 'Segoe UI',Arial,sans-serif;fill:#FFFFFF}
+    </style>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#sky)"/>
+  <rect x="28" y="28" width="1144" height="304" rx="22" fill="#080D1C" opacity=".72" stroke="#24365F"/>
+  <path d="M0 265C155 231 246 238 389 257C529 276 664 330 806 292C953 252 1013 173 1200 214V360H0V265Z" fill="#080D1C"/>
+  <path d="M0 271C155 237 246 244 389 263C529 282 664 336 806 298C953 258 1013 179 1200 220" stroke="url(#neon)" stroke-width="3" opacity=".55"/>
+
+  <g opacity=".8">
+    <rect x="742" y="164" width="52" height="122" fill="#0F172A"/>
+    <rect x="805" y="134" width="78" height="152" fill="#111936"/>
+    <rect x="898" y="188" width="58" height="98" fill="#0D1328"/>
+    <rect x="970" y="118" width="95" height="168" fill="#111936"/>
+    <rect x="1080" y="154" width="42" height="132" fill="#0F172A"/>
+    <g fill="#58A6FF" opacity=".5">
+      <rect x="760" y="184" width="12" height="7"/><rect x="760" y="208" width="12" height="7"/><rect x="760" y="232" width="12" height="7"/>
+      <rect x="830" y="156" width="12" height="7"/><rect x="858" y="156" width="12" height="7"/><rect x="830" y="188" width="12" height="7"/>
+      <rect x="990" y="142" width="14" height="8"/><rect x="1022" y="142" width="14" height="8"/><rect x="1050" y="174" width="14" height="8"/>
+    </g>
+  </g>
+
+  <rect x="80" y="72" width="548" height="218" rx="18" fill="#0B1022" stroke="#30446F"/>
+  <text x="112" y="124" class="mono">Neto-Marcos / README.md</text>
+  <text x="112" y="184" class="title">Marcos Neto</text>
+  <text x="112" y="224" class="subtitle">Backend - Automacao - Sistemas Web</text>
+  <rect x="112" y="250" width="370" height="4" rx="2" fill="url(#neon)" filter="url(#glow)"/>
+  <text x="112" y="278" class="muted">MN-Check | Java | Spring Boot | PostgreSQL</text>
+
+  <rect x="690" y="76" width="360" height="176" rx="18" fill="#0B1022" stroke="#30446F"/>
+  <text x="722" y="116" class="mono">$ current_focus</text>
+  <text x="722" y="154" class="subtitle">MN-Check</text>
+  <text x="722" y="186" class="muted">Sistema para conferencia, contagem</text>
+  <text x="722" y="210" class="muted">e controle operacional.</text>
+  <g transform="translate(722 236)">
+    <rect width="58" height="26" rx="13" fill="#1D2B53"/><text x="15" y="18" class="chip">Java</text>
+    <rect x="68" width="88" height="26" rx="13" fill="#3B4CCA"/><text x="84" y="18" class="chip">Spring</text>
+    <rect x="166" width="104" height="26" rx="13" fill="#7C3AED"/><text x="184" y="18" class="chip">Web</text>
+  </g>
+</svg>
