@@ -2,18 +2,18 @@
   <title id="title">Tela de início de Marcos Neto</title>
   <desc id="desc">Banner pixel art de videogame antigo apresentando Marcos Neto como desenvolvedor.</desc>
   <defs>
-    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#25224A" stroke-width="2"/></pattern>
-    <style>.pixel{font-family:monospace;font-weight:800;letter-spacing:2px}.title{font-size:48px;fill:#FFCC00}.sub{font-size:18px;fill:#F8F8F2}.small{font-size:14px;fill:#AAA7D1}.tag{font-size:13px;fill:#151515}</style>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#306230" stroke-width="2"/></pattern>
+    <style>.pixel{font-family:monospace;font-weight:800;letter-spacing:2px}.title{font-size:48px;fill:#9BBC0F}.sub{font-size:18px;fill:#9BBC0F}.small{font-size:14px;fill:#8BAC0F}.tag{font-size:13px;fill:#0F380F}</style>
   </defs>
-  <rect width="1200" height="360" fill="#151515"/><rect width="1200" height="360" fill="url(#grid)"/>
-  <rect x="32" y="32" width="1136" height="296" rx="4" fill="#201D3D" stroke="#FFCC00" stroke-width="4"/>
-  <rect x="52" y="52" width="1096" height="42" fill="#FF5C8A"/>
-  <text x="78" y="79" class="pixel small" fill="#151515">PLAYER 1  •  PROFILE SELECT  •  PRESS START</text>
-  <rect x="80" y="124" width="650" height="150" fill="#151515" stroke="#00D084" stroke-width="4"/>
-  <rect x="92" y="136" width="10" height="10" fill="#FF5C8A"/><rect x="108" y="136" width="10" height="10" fill="#FFCC00"/><rect x="124" y="136" width="10" height="10" fill="#00D084"/>
+  <rect width="1200" height="360" fill="#0F380F"/><rect width="1200" height="360" fill="url(#grid)"/>
+  <rect x="32" y="32" width="1136" height="296" rx="4" fill="#306230" stroke="#9BBC0F" stroke-width="4"/>
+  <rect x="52" y="52" width="1096" height="42" fill="#8BAC0F"/>
+  <text x="78" y="79" class="pixel small" fill="#0F380F">PLAYER 1  •  PROFILE SELECT  •  PRESS START</text>
+  <rect x="80" y="124" width="650" height="150" fill="#0F380F" stroke="#9BBC0F" stroke-width="4"/>
+  <rect x="92" y="136" width="10" height="10" fill="#306230"/><rect x="108" y="136" width="10" height="10" fill="#9BBC0F"/><rect x="124" y="136" width="10" height="10" fill="#8BAC0F"/>
   <text x="112" y="190" class="pixel title">MARCOS NETO</text>
   <text x="112" y="224" class="pixel sub">DEV EM FORMAÇÃO  •  BACKEND  •  AUTOMAÇÃO</text>
   <text x="112" y="252" class="pixel small">CRIANDO SOLUÇÕES PARA AS QUESTS DO MUNDO REAL</text>
-  <g transform="translate(790 126)"><rect width="260" height="142" fill="#151515" stroke="#FFCC00" stroke-width="4"/><text x="22" y="34" class="pixel small">CURRENT QUEST</text><text x="22" y="72" class="pixel sub" fill="#00D084">MN-CHECK</text><rect x="22" y="94" width="182" height="16" fill="#36315D"/><rect x="22" y="94" width="124" height="16" fill="#00D084"/><text x="22" y="132" class="pixel small">LEVELING UP...</text></g>
-  <rect x="80" y="294" width="170" height="20" fill="#FFCC00"/><text x="94" y="309" class="pixel tag">JAVA + SPRING</text><rect x="264" y="294" width="180" height="20" fill="#00D084"/><text x="278" y="309" class="pixel tag">POSTGRESQL</text><rect x="458" y="294" width="148" height="20" fill="#FF5C8A"/><text x="472" y="309" class="pixel tag">PYTHON</text>
+  <g transform="translate(790 126)"><rect width="260" height="142" fill="#0F380F" stroke="#9BBC0F" stroke-width="4"/><text x="22" y="34" class="pixel small">CURRENT QUEST</text><text x="22" y="72" class="pixel sub" fill="#9BBC0F">MN-CHECK</text><rect x="22" y="94" width="182" height="16" fill="#306230"/><rect x="22" y="94" width="124" height="16" fill="#8BAC0F"/><text x="22" y="132" class="pixel small">LEVELING UP...</text></g>
+  <rect x="80" y="294" width="170" height="20" fill="#9BBC0F"/><text x="94" y="309" class="pixel tag">JAVA + SPRING</text><rect x="264" y="294" width="180" height="20" fill="#8BAC0F"/><text x="278" y="309" class="pixel tag">POSTGRESQL</text><rect x="458" y="294" width="148" height="20" fill="#306230"/><text x="472" y="309" class="pixel tag" fill="#9BBC0F">PYTHON</text>
 </svg>
