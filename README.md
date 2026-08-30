@@ -80,6 +80,5 @@ MISSÃO ATUAL  ▶ evoluir o MN-Check
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marcos-neto-bbab573b6/"><img src="https://img.shields.io/badge/LinkedIn-306230?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:marcos.neto0706@gmail.com"><img src="https://img.shields.io/badge/E--mail-8bac0f?style=for-the-badge&logo=gmail&logoColor=0f380f" alt="E-mail" /></a>
   <a href="https://www.instagram.com/lb.netin/"><img src="https://img.shields.io/badge/Instagram-306230?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
