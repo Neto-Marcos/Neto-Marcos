@@ -6,6 +6,7 @@
   <a href="https://portfolio-marcos-neto.vercel.app"><img src="https://img.shields.io/badge/ABRIR_PORTFOLIO-9bbc0f?style=for-the-badge&labelColor=0f380f&color=9bbc0f" alt="Abrir portfólio" /></a>
   <a href="https://github.com/Neto-Marcos/mn-check"><img src="https://img.shields.io/badge/FASE_01-MN--CHECK-306230?style=for-the-badge&labelColor=0f380f" alt="Projeto MN-Check" /></a>
   <a href="https://github.com/Neto-Marcos/chronos-landing-page"><img src="https://img.shields.io/badge/FASE_02-CHRONOS-8bac0f?style=for-the-badge&labelColor=0f380f" alt="Projeto Chronos" /></a>
+  <a href="https://github.com/Neto-Marcos/Route_Wise"><img src="https://img.shields.io/badge/FASE_03-ROUTEWISE-306230?style=for-the-badge&labelColor=0f380f" alt="Projeto RouteWise" /></a>
 </p>
 
 ## 🕹️ Player 1: Marcos Neto
@@ -14,9 +15,9 @@ Dev em formação, construindo sistemas web, automações e soluções para prob
 
 ```text
 STATUS        ▶ criando, estudando e depurando com café
-CLASSE        ▶ backend / automação / sistemas web
-SKILLS        ▶ Java, Spring Boot, PostgreSQL, JavaScript e Python
-MISSÃO ATUAL  ▶ evoluir o MN-Check
+CLASSE        ▶ backend / automação / sistemas web & logística
+SKILLS        ▶ Java, Spring Boot, TypeScript, Next.js, Python e PostgreSQL
+MISSÃO ATUAL  ▶ evoluir o ecossistema logístico (MN-Check & RouteWise)
 ```
 
 ## ⭐ Fases em destaque
@@ -25,7 +26,7 @@ MISSÃO ATUAL  ▶ evoluir o MN-Check
   <tr>
     <td width="58%">
       <h3>MN-Check</h3>
-      <p>Um sistema para conferência, separação, contagem e acompanhamento de divergências em operações de expedição.</p>
+      <p>Um sistema para conferência, separação, contagem de inventário e acompanhamento de divergências em operações de expedição.</p>
       <p>Na prática: ajuda a operação a manter o placar limpo, com menos retrabalho e mais controle.</p>
       <a href="https://github.com/Neto-Marcos/mn-check">▶ Jogar esta fase</a>
     </td>
@@ -53,16 +54,35 @@ MISSÃO ATUAL  ▶ evoluir o MN-Check
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="58%">
+      <h3>RouteWise TMS</h3>
+      <p>Plataforma de roteirização inteligente, torre de controle logística, manifesto de carregamento LIFO e gestão de fretes.</p>
+      <p>Transforma planilhas e notas fiscais em rotas otimizadas por cubagem, peso e sequência de entrega.</p>
+      <a href="https://github.com/Neto-Marcos/Route_Wise">▶ Jogar esta fase</a>
+    </td>
+    <td width="42%" align="center">
+      <a href="https://github.com/Neto-Marcos/Route_Wise">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Neto-Marcos&repo=Route_Wise&theme=dark&hide_border=true&title_color=9bbc0f&icon_color=8bac0f&text_color=c7d89b&bg_color=0f380f" alt="Repositório RouteWise" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## 🎒 Inventário
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-306230?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-8bac0f?style=for-the-badge&logo=springboot&logoColor=0f380f" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/TypeScript-306230?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-8bac0f?style=for-the-badge&logo=nextdotjs&logoColor=0f380f" alt="Next.js" />
   <img src="https://img.shields.io/badge/PostgreSQL-306230?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/JavaScript-9bbc0f?style=for-the-badge&logo=javascript&logoColor=0f380f" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-306230?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-8bac0f?style=for-the-badge&logo=html5&logoColor=0f380f" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-306230?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/Docker-8bac0f?style=for-the-badge&logo=docker&logoColor=0f380f" alt="Docker" />
+  <img src="https://img.shields.io/badge/HTML5-306230?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-8bac0f?style=for-the-badge&logo=css3&logoColor=0f380f" alt="CSS" />
 </p>
 
 ## 📊 Placar
