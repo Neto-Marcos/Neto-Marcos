@@ -80,7 +80,7 @@ Conheça os sistemas em produção, as demonstrações e as decisões técnicas 
     <td width="58%">
       <kbd>03 / SAAS</kbd> &nbsp; <kbd>EM PRODUÇÃO</kbd> &nbsp; <kbd>MULTIEMPRESA</kbd>
       <h3>Chronos — Gestão de Jornada</h3>
-      <p>Ecossistema de gestão de jornada com painel administrativo, registro de ponto por reconhecimento facial, banco de horas e operação offline-first em tablets com sincronização posterior. Multiempresa com isolamento por tenant, autenticação em dois fatores (TOTP), geração de AFD/AEJ da Portaria 671 do MTE, folha com INSS/IRRF por ano, integração com WhatsApp, deploy com Docker e CI, e mais de 640 testes automatizados.</p>
+      <p>Ecossistema de gestão de jornada com painel administrativo, registro de ponto por reconhecimento facial, banco de horas e operação offline-first em tablets com sincronização posterior. Multiempresa com isolamento por tenant, geração do AFD da Portaria 671 do MTE, folha com INSS e IRRF, integração com WhatsApp, deploy com Docker e CI, e mais de 500 testes automatizados.</p>
       <p><strong>Arquitetura:</strong> <code>PWAs / React</code> → <code>Django REST</code> → <code>PostgreSQL</code></p>
       <p><strong>Stack:</strong> <code>Django REST</code> · <code>Python</code> · <code>Celery</code> · <code>Redis</code> · <code>React</code> · <code>TypeScript</code> · <code>PWA</code> · <code>PostgreSQL</code> · <code>Docker</code></p>
       <p>
