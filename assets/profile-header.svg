@@ -1,5 +1,5 @@
 <svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Marcos Neto — Desenvolvedor Back-end Java &amp; Produtos Digitais</title>
+  <title id="title">Marcos Neto — Desenvolvedor Back-end Python, Java &amp; Produtos Digitais</title>
   <desc id="desc">Banner editorial roxo do perfil de Marcos Neto inspirado em marcosneto.dev: Back-end primeiro. Produto completo.</desc>
   <defs>
     <!-- Exact Hero Radial Gradient from editorial.css: radial-gradient(ellipse at 68% 30%, #9664dc, #733dbb 60%, #542489) -->
@@ -78,7 +78,7 @@
   <g transform="translate(52, 92)">
     <!-- Eyebrow Pill -->
     <rect x="0" y="0" width="248" height="26" rx="4" fill="#321247" fill-opacity="0.55" stroke="#FFFFFF" stroke-opacity="0.28"/>
-    <text x="12" y="17" class="mono kicker" font-size="10.5">DESENVOLVEDOR BACK-END JAVA</text>
+    <text x="12" y="17" class="mono kicker" font-size="10.5">DESENVOLVEDOR BACK-END</text>
 
     <text x="0" y="58" class="sans hero-lead">Transformando regras de negócio, documentos e rotinas</text>
     <text x="0" y="80" class="sans hero-lead">operacionais em produtos digitais seguros e fáceis de evoluir.</text>

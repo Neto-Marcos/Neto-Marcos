@@ -1,13 +1,13 @@
 <p align="center">
   <a href="https://portfolio-marcos-neto.vercel.app">
-    <img width="100%" src="./assets/profile-header.svg" alt="Marcos Neto — Desenvolvedor Back-end Java | Back-end primeiro. Produto completo." />
+    <img width="100%" src="./assets/profile-header.svg" alt="Marcos Neto — Desenvolvedor Back-end Python e Java | Back-end primeiro. Produto completo." />
   </a>
 </p>
 
 <p align="center">
   <a href="https://portfolio-marcos-neto.vercel.app"><img src="https://img.shields.io/badge/PORTFÓLIO-MARCOSNETO.DEV-8b5cf6?style=for-the-badge&labelColor=0b0810&color=8b5cf6" alt="Abrir Portfólio" /></a>
-  <a href="https://criarrota.up.railway.app"><img src="https://img.shields.io/badge/01-CRIAR_ROTA_(ROUTEWISE)-21192e?style=for-the-badge&labelColor=0b0810&color=7943d1" alt="Criar Rota / RouteWise" /></a>
-  <a href="https://mn-check-production.up.railway.app/"><img src="https://img.shields.io/badge/02-MN_CHECK_v3.0-21192e?style=for-the-badge&labelColor=0b0810&color=7943d1" alt="MN Check" /></a>
+  <a href="https://criarrota.com.br"><img src="https://img.shields.io/badge/01-CRIAR_ROTA_(ROUTEWISE)-21192e?style=for-the-badge&labelColor=0b0810&color=7943d1" alt="Criar Rota / RouteWise" /></a>
+  <a href="https://check.criarrota.com.br/"><img src="https://img.shields.io/badge/02-MN_CHECK_v3.0-21192e?style=for-the-badge&labelColor=0b0810&color=7943d1" alt="MN Check" /></a>
   <a href="https://chronos-site-tau.vercel.app/"><img src="https://img.shields.io/badge/03-CHRONOS_SAAS-21192e?style=for-the-badge&labelColor=0b0810&color=7943d1" alt="Chronos" /></a>
   <a href="https://www.linkedin.com/in/marcos-neto-bbab573b6/"><img src="https://img.shields.io/badge/LINKEDIN-CONECTAR_↗-c4b5fd?style=for-the-badge&labelColor=0b0810&color=c4b5fd" alt="LinkedIn" /></a>
 </p>
@@ -42,7 +42,7 @@ Conheça os sistemas em produção, as demonstrações e as decisões técnicas 
       <p>Da carteira de pedidos ao retorno do caminhão: importação de planilhas, verificação de disponibilidade, sugestões de cargas e rotas por cidades, peso e cubagem, sequência de carregamento LIFO e acompanhamento em tempo real.</p>
       <p><strong>Stack:</strong> <code>Next.js</code> · <code>React</code> · <code>TypeScript</code> · <code>PostgreSQL</code> · <code>Leaflet</code> · <code>PWA</code></p>
       <p>
-        <a href="https://criarrota.up.railway.app"><strong>Conhecer o sistema ↗</strong></a> &nbsp;·&nbsp;
+        <a href="https://criarrota.com.br"><strong>Conhecer o sistema ↗</strong></a> &nbsp;·&nbsp;
         <a href="https://github.com/Neto-Marcos/Route_Wise">Ver código no GitHub ↗</a>
       </p>
     </td>
@@ -63,7 +63,7 @@ Conheça os sistemas em produção, as demonstrações e as decisões técnicas 
       <p><strong>Arquitetura:</strong> <code>Coletor / Web</code> → <code>Spring Boot API</code> → <code>PostgreSQL</code></p>
       <p><strong>Stack:</strong> <code>Java 21</code> · <code>Spring Boot</code> · <code>PostgreSQL</code> · <code>Flyway</code> · <code>PDFBox</code> · <code>React</code> · <code>Docker</code></p>
       <p>
-        <a href="https://mn-check-production.up.railway.app/"><strong>Abrir aplicação ↗</strong></a> &nbsp;·&nbsp;
+        <a href="https://check.criarrota.com.br/"><strong>Abrir aplicação ↗</strong></a> &nbsp;·&nbsp;
         <a href="https://github.com/Neto-Marcos/mn-check">Ver código no GitHub ↗</a>
       </p>
     </td>
@@ -80,12 +80,12 @@ Conheça os sistemas em produção, as demonstrações e as decisões técnicas 
     <td width="58%">
       <kbd>03 / SAAS</kbd> &nbsp; <kbd>EM PRODUÇÃO</kbd> &nbsp; <kbd>MULTIEMPRESA</kbd>
       <h3>Chronos — Gestão de Jornada</h3>
-      <p>Ecossistema de gestão de jornada com painel administrativo, registro de ponto por reconhecimento facial, banco de horas e operação offline-first em tablets com sincronização posterior.</p>
+      <p>Ecossistema de gestão de jornada com painel administrativo, registro de ponto por reconhecimento facial, banco de horas e operação offline-first em tablets com sincronização posterior. Multiempresa com isolamento por tenant, autenticação em dois fatores (TOTP), geração de AFD/AEJ da Portaria 671 do MTE, folha com INSS/IRRF por ano, integração com WhatsApp, deploy com Docker e CI, e mais de 640 testes automatizados.</p>
       <p><strong>Arquitetura:</strong> <code>PWAs / React</code> → <code>Django REST</code> → <code>PostgreSQL</code></p>
-      <p><strong>Stack:</strong> <code>Django REST</code> · <code>Python</code> · <code>React</code> · <code>TypeScript</code> · <code>PWA</code> · <code>PostgreSQL</code></p>
+      <p><strong>Stack:</strong> <code>Django REST</code> · <code>Python</code> · <code>Celery</code> · <code>Redis</code> · <code>React</code> · <code>TypeScript</code> · <code>PWA</code> · <code>PostgreSQL</code> · <code>Docker</code></p>
       <p>
         <a href="https://chronos-site-tau.vercel.app/"><strong>Conhecer o produto ↗</strong></a> &nbsp;·&nbsp;
-        <a href="https://admin-panel-production-7c1d.up.railway.app/"><strong>Abrir painel ↗</strong></a> &nbsp;·&nbsp;
+        <a href="https://chronos.criarrota.com.br/"><strong>Abrir painel ↗</strong></a> &nbsp;·&nbsp;
         <a href="https://github.com/Neto-Marcos/chronos-landing-page">Repositório ↗</a>
       </p>
     </td>
@@ -139,7 +139,7 @@ Mais do que listar tecnologias, estas são as responsabilidades que assumo ao co
       <h4>Dados rastreáveis</h4>
       <p><sub>Modelagem, persistência, histórico e isolamento seguro por contexto.</sub></p>
       <img src="https://img.shields.io/badge/PostgreSQL-17121f?style=flat-square&logo=postgresql&logoColor=c4b5fd" alt="PostgreSQL" /><br/>
-      <img src="https://img.shields.io/badge/Neon_Serverless-17121f?style=flat-square&logoColor=c4b5fd" alt="Neon" /><br/>
+      <img src="https://img.shields.io/badge/Backups_Diários-17121f?style=flat-square&logoColor=c4b5fd" alt="Backups diários" /><br/>
       <img src="https://img.shields.io/badge/Flyway_Migrations-17121f?style=flat-square&logo=flyway&logoColor=c4b5fd" alt="Flyway" /><br/>
       <img src="https://img.shields.io/badge/SQL_&_Modelagem-17121f?style=flat-square&logoColor=c4b5fd" alt="SQL" /><br/>
       <img src="https://img.shields.io/badge/Trilha_de_Auditoria-17121f?style=flat-square&logoColor=c4b5fd" alt="Auditoria" />
@@ -160,7 +160,7 @@ Mais do que listar tecnologias, estas são as responsabilidades que assumo ao co
       <p><sub>Documentos, containers, versionamento e publicação contínua.</sub></p>
       <img src="https://img.shields.io/badge/Docker-17121f?style=flat-square&logo=docker&logoColor=c4b5fd" alt="Docker" /><br/>
       <img src="https://img.shields.io/badge/Apache_PDFBox-17121f?style=flat-square&logoColor=c4b5fd" alt="PDFBox" /><br/>
-      <img src="https://img.shields.io/badge/Railway-17121f?style=flat-square&logo=railway&logoColor=c4b5fd" alt="Railway" /><br/>
+      <img src="https://img.shields.io/badge/Linux_·_Cloudflare_Tunnel-17121f?style=flat-square&logo=cloudflare&logoColor=c4b5fd" alt="Servidor Linux e Cloudflare Tunnel" /><br/>
       <img src="https://img.shields.io/badge/Vercel-17121f?style=flat-square&logo=vercel&logoColor=c4b5fd" alt="Vercel" /><br/>
       <img src="https://img.shields.io/badge/Git_&_GitHub_Actions-17121f?style=flat-square&logo=git&logoColor=c4b5fd" alt="Git" />
     </td>
