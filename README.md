@@ -86,7 +86,8 @@ Conheça os sistemas em produção, as demonstrações e as decisões técnicas 
       <p>
         <a href="https://chronos-site-tau.vercel.app/"><strong>Conhecer o produto ↗</strong></a> &nbsp;·&nbsp;
         <a href="https://chronos.criarrota.com.br/"><strong>Abrir painel ↗</strong></a> &nbsp;·&nbsp;
-        <a href="https://github.com/Neto-Marcos/chronos-landing-page">Repositório ↗</a>
+        <a href="https://github.com/Neto-Marcos/chronos-showcase">Vitrine técnica ↗</a> &nbsp;·&nbsp;
+        <a href="https://github.com/Neto-Marcos/chronos-landing-page">Landing page ↗</a>
       </p>
     </td>
     <td width="42%" align="center">
