@@ -81,10 +81,14 @@ Meu forte é o **back-end** (Python com Django, Java com Spring Boot), mas entre
 
 <br/>
 
-## Atividade
+## Atividade <sub>· atualizada todo dia</sub>
 
 <p align="center">
-  <img width="100%" src="./assets/activity.svg" alt="Mapa de contribuições no GitHub no último ano" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Neto-Marcos/Neto-Marcos/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Neto-Marcos/Neto-Marcos/output/snake.svg" />
+    <img alt="Cobrinha comendo o calendário de contribuições do GitHub" src="https://raw.githubusercontent.com/Neto-Marcos/Neto-Marcos/output/snake.svg" width="100%" />
+  </picture>
 </p>
 
 <br/>
