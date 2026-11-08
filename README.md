@@ -13,20 +13,19 @@
 
 <br/>
 
-<table>
-  <tr>
-    <td width="62%" valign="middle">
-      <h2>Oi, eu sou o Marcos.</h2>
-      <p>Estudo <b>Ciência da Computação na UNIFACISA</b> e escrevo software que roda em operação de verdade: ponto eletrônico, conferência de carga e roteirização de entregas.</p>
-      <p>Meu forte é o <b>back-end</b> (Python com Django, Java com Spring Boot), mas entrego o produto inteiro: banco, API e a tela que quem opera usa.</p>
-      <p><b>Agora:</b> procuro minha primeira vaga de dev júnior ou estágio em back-end.</p>
-    </td>
-    <td width="38%" align="center" valign="middle">
-      <img src="./assets/teste-real.webp" width="260" alt="Marcos testando o ponto por reconhecimento facial no tablet do Chronos" />
-      <br/><sub>Eu, testando o ponto por reconhecimento facial no tablet do Chronos.</sub>
-    </td>
-  </tr>
-</table>
+<img src="./assets/teste-real.webp" width="260" align="right" alt="Marcos testando o ponto por reconhecimento facial no tablet do Chronos" />
+
+## Oi, eu sou o Marcos.
+
+Estudo **Ciência da Computação na UNIFACISA** e escrevo software que roda em operação de verdade: ponto eletrônico, conferência de carga e roteirização de entregas.
+
+Meu forte é o **back-end** (Python com Django, Java com Spring Boot), mas entrego o produto inteiro: banco, API e a tela que quem opera usa.
+
+**Agora:** procuro minha primeira vaga de dev júnior ou estágio em back-end.
+
+<sub>Na foto: eu testando o ponto por reconhecimento facial no tablet do Chronos.</sub>
+
+<br clear="all"/>
 
 <br/>
 
