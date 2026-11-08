@@ -1,0 +1,43 @@
+# Gera a cobrinha que come o calendário de contribuições, uma vez por dia, e publica os SVGs no branch `output`.
+# As ações de terceiros ficam travadas num commit exato (a versão vai no comentário), não numa tag que pode mudar.
+name: Snake
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths: [".github/workflows/snake.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: snake
+  cancel-in-progress: true
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Gera os SVGs (claro e escuro)
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3.5.0
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?color_snake=#000000&color_dots=#ebedf0,#ffc2de,#ff85ba,#ff4fa3,#ff2e93
+            dist/snake-dark.svg?color_snake=#ffffff&color_dots=#1a1a1a,#4d1030,#8f1b58,#d6267f,#ff2e93
+
+      - name: Publica no branch output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd dist
+          git init -q -b output
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -q -m "chore: atualiza a cobrinha"
+          git push -f "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" output
